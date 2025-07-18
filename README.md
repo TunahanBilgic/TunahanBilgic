@@ -18,6 +18,7 @@ Hello everyone! I'm an industrial engineer in data science, passionate about cod
 ## 💬 Recent Website Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Python - Supervised Learning Algorithms](https://github.com/TunahanBilgic/kodlamaogreniyorum/blob/main/python/ds/supervised.ipynb)
 - [Python - Bubble Sorting Algorithm](https://www.kodlamaogreniyorum.com/python-kabarcik-siralama-algoritmasi/)
 - [Matlab - Calculator](https://www.kodlamaogreniyorum.com/matlab-hesap-makinesi-programi/)
 <!-- BLOG-POST-LIST:END -->
